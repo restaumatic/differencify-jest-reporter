@@ -44,7 +44,7 @@
     "jest-cli": "^23.5.0"
   },
   "peerDependencies": {
-    "differencify": "1.4.4"
+    "differencify": "1.5.4"
   },
   "dependencies": {
     "chalk": "^2.4.1",
